@@ -199,10 +199,3 @@ O código está todo no arquivo `simulador_zeros.py`:
 
 ---
 
-## Equipe
-
-| Integrante | Participação |
-|---|---|
-| [Nome 1] | [descrição] |
-| [Nome 2] | [descrição] |
-| [Nome 3] | [descrição] |
